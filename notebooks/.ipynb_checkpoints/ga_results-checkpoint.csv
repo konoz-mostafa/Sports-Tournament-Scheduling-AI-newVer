@@ -1,0 +1,307 @@
+Match#,Team1,Team2,Leg,Date,Time,Venue
+1,El Gouna,Pharco,1,2025-06-04,17:00,Alexandria Stadium
+2,Future,Modern Sport,1,2025-05-23,17:00,El Sekka El Hadeed Stadium
+3,Talaea El Gaish,Al Ahly,2,2025-08-27,20:00,El Sekka El Hadeed Stadium
+4,Masry,Zamalek,2,2025-06-17,20:00,Alexandria Stadium
+5,Pyramids,National Bank,1,2025-09-20,20:00,Petro Sport Stadium
+6,National Bank,Smouha,2,2026-01-31,20:00,Military Academy Stadium
+7,Pyramids,Ismaily,1,2025-08-17,20:00,Military Academy Stadium
+8,Future,Ismaily,1,2025-06-12,17:00,Military Academy Stadium
+9,Masry,Zed,1,2025-06-06,20:00,Air Defense Stadium
+10,Wadi Degla,Masry,2,2025-05-20,20:00,Military Academy Stadium
+11,Al Ahly,Talaea El Gaish,1,2025-07-12,20:00,Al Salam Stadium
+12,ENPPI,Masry,2,2025-09-25,20:00,Military Academy Stadium
+13,Wadi Degla,Pharco,2,2025-11-22,20:00,Air Defense Stadium
+14,Ceramica,Wadi Degla,1,2025-08-28,17:00,Air Defense Stadium
+15,ENPPI,Future,2,2025-12-23,20:00,Cairo Stadium
+16,Zamalek,El Gouna,1,2026-01-22,17:00,El Sekka El Hadeed Stadium
+17,National Bank,ENPPI,2,2025-07-27,17:00,Borg El Arab
+18,El Dakhleya,Alexandria Union,2,2025-10-18,17:00,El Sekka El Hadeed Stadium
+19,Modern Sport,Wadi Degla,1,2026-01-19,17:00,Cairo Stadium
+20,Masry,Ismaily,1,2025-12-21,20:00,Alexandria Stadium
+21,Smouha,El Dakhleya,1,2025-12-28,20:00,Alexandria Stadium
+22,Al Ahly,Ceramica,1,2025-08-27,20:00,Alexandria Stadium
+23,Zamalek,Wadi Degla,1,2025-12-06,20:00,Suez Stadium
+24,Masry,Zamalek,2,2025-11-17,20:00,Suez Stadium
+25,El Gouna,El Dakhleya,2,2025-08-29,20:00,Suez Stadium
+26,Ismaily,Masry,2,2025-09-22,20:00,El Sekka El Hadeed Stadium
+27,Pharco,Masry,2,2025-07-07,17:00,Petro Sport Stadium
+28,Modern Sport,National Bank,2,2025-11-29,20:00,Zed Club Stadium
+29,Pharco,Wadi Degla,1,2025-07-01,17:00,Suez Stadium
+30,El Gouna,Future,2,2025-12-12,20:00,Alexandria Stadium
+31,Alexandria Union,El Dakhleya,1,2025-05-26,20:00,Cairo Stadium
+32,Al Ahly,ENPPI,1,2026-01-13,20:00,Borg El Arab
+33,ENPPI,Alexandria Union,1,2025-08-01,17:00,Borg El Arab
+34,Ismaily,Zed,1,2025-11-27,17:00,Cairo Stadium
+35,Pharco,El Dakhleya,2,2026-01-27,17:00,El Sekka El Hadeed Stadium
+36,Masry,National Bank,1,2025-07-12,17:00,El Sekka El Hadeed Stadium
+37,Ismaily,National Bank,1,2025-05-09,20:00,El Sekka El Hadeed Stadium
+38,El Dakhleya,Pyramids,2,2025-11-11,17:00,Military Academy Stadium
+39,Smouha,El Gouna,1,2025-10-25,17:00,Petro Sport Stadium
+40,Al Ahly,Zamalek,1,2025-10-23,17:00,Suez Stadium
+41,El Gouna,ENPPI,2,2025-10-19,17:00,Al Salam Stadium
+42,Zed,Zamalek,2,2025-10-31,20:00,Petro Sport Stadium
+43,Wadi Degla,Modern Sport,2,2025-07-23,20:00,Petro Sport Stadium
+44,Pharco,Zed,2,2025-11-02,20:00,Military Academy Stadium
+45,National Bank,Zed,1,2025-10-30,20:00,Zed Club Stadium
+46,Future,Modern Sport,1,2025-08-25,20:00,Al Salam Stadium
+47,Zed,Pyramids,2,2025-11-02,17:00,El Sekka El Hadeed Stadium
+48,Al Ahly,Alexandria Union,1,2025-10-13,20:00,Suez Stadium
+49,Pyramids,Pharco,1,2025-08-29,17:00,Cairo Stadium
+50,ENPPI,Zed,1,2025-07-23,17:00,Cairo Stadium
+51,Talaea El Gaish,Zamalek,2,2025-06-14,17:00,Zed Club Stadium
+52,Al Ahly,Modern Sport,1,2025-12-13,20:00,Air Defense Stadium
+53,Zamalek,Zed,1,2025-09-08,20:00,Zed Club Stadium
+54,Pyramids,El Gouna,1,2025-09-14,20:00,Borg El Arab
+55,ENPPI,Modern Sport,1,2025-11-17,20:00,Al Salam Stadium
+56,National Bank,Pyramids,2,2025-08-08,17:00,Air Defense Stadium
+57,Alexandria Union,Smouha,2,2026-01-16,20:00,Petro Sport Stadium
+58,Zed,Future,2,2025-07-27,17:00,Cairo Stadium
+59,Ismaily,Modern Sport,1,2025-05-18,17:00,El Sekka El Hadeed Stadium
+60,Talaea El Gaish,El Dakhleya,1,2025-08-08,17:00,Petro Sport Stadium
+61,Wadi Degla,Future,2,2026-01-16,17:00,Petro Sport Stadium
+62,Modern Sport,Masry,2,2025-12-20,20:00,Air Defense Stadium
+63,Ismaily,Wadi Degla,1,2025-12-31,17:00,Air Defense Stadium
+64,Masry,Future,1,2025-12-17,17:00,Cairo Stadium
+65,Pharco,Al Ahly,2,2025-11-26,20:00,Alexandria Stadium
+66,Pharco,Zamalek,2,2025-10-06,20:00,El Sekka El Hadeed Stadium
+67,Zed,Smouha,2,2025-11-09,17:00,Air Defense Stadium
+68,Pyramids,Alexandria Union,1,2025-10-24,17:00,Borg El Arab
+69,El Gouna,Zed,1,2025-05-29,20:00,Alexandria Stadium
+70,National Bank,Pyramids,2,2025-10-08,20:00,Alexandria Stadium
+71,Wadi Degla,Ceramica,2,2026-01-04,17:00,Zed Club Stadium
+72,Zed,Zamalek,2,2025-07-29,20:00,Borg El Arab
+73,Wadi Degla,Ismaily,2,2025-07-20,20:00,El Sekka El Hadeed Stadium
+74,Ismaily,Al Ahly,2,2025-12-25,17:00,Zed Club Stadium
+75,Talaea El Gaish,Modern Sport,1,2025-12-17,17:00,Military Academy Stadium
+76,Future,Ceramica,1,2025-08-15,17:00,Al Salam Stadium
+77,Talaea El Gaish,National Bank,2,2025-11-10,20:00,Air Defense Stadium
+78,Pharco,Modern Sport,2,2025-11-04,20:00,Air Defense Stadium
+79,Zed,El Gouna,2,2025-11-09,17:00,Petro Sport Stadium
+80,Ismaily,Smouha,1,2025-05-19,20:00,Borg El Arab
+81,Future,El Dakhleya,1,2026-01-25,20:00,Military Academy Stadium
+82,Al Ahly,Ceramica,1,2025-08-26,20:00,Zed Club Stadium
+83,Zamalek,El Gouna,1,2025-09-05,17:00,Military Academy Stadium
+84,El Gouna,Masry,2,2025-08-21,17:00,Al Salam Stadium
+85,Talaea El Gaish,Pyramids,2,2025-05-09,20:00,Cairo Stadium
+86,ENPPI,Talaea El Gaish,1,2025-08-16,20:00,Petro Sport Stadium
+87,Smouha,Alexandria Union,1,2026-01-23,20:00,Al Salam Stadium
+88,ENPPI,Smouha,2,2025-12-28,17:00,Petro Sport Stadium
+89,ENPPI,Zamalek,2,2025-12-27,17:00,Petro Sport Stadium
+90,Ismaily,Masry,2,2025-08-19,17:00,Air Defense Stadium
+91,Alexandria Union,Ceramica,2,2025-05-26,20:00,El Sekka El Hadeed Stadium
+92,Wadi Degla,Talaea El Gaish,2,2025-11-04,17:00,Suez Stadium
+93,Zed,Alexandria Union,2,2026-01-06,20:00,Borg El Arab
+94,Wadi Degla,Zamalek,2,2025-12-22,17:00,Al Salam Stadium
+95,Talaea El Gaish,Ceramica,2,2025-07-13,17:00,Military Academy Stadium
+96,Wadi Degla,ENPPI,2,2025-07-16,17:00,Military Academy Stadium
+97,Alexandria Union,Zamalek,2,2025-10-24,20:00,Al Salam Stadium
+98,ENPPI,Future,2,2026-01-02,17:00,Air Defense Stadium
+99,Pharco,Ismaily,2,2025-09-10,20:00,Alexandria Stadium
+100,Zamalek,Zed,1,2025-05-30,20:00,Military Academy Stadium
+101,El Dakhleya,Pharco,1,2025-06-18,20:00,Suez Stadium
+102,Ceramica,Wadi Degla,1,2025-08-04,20:00,Military Academy Stadium
+103,Smouha,Masry,2,2025-12-14,17:00,Alexandria Stadium
+104,Masry,Pyramids,2,2025-12-23,17:00,Alexandria Stadium
+105,ENPPI,National Bank,1,2025-08-13,17:00,Cairo Stadium
+106,El Gouna,Pyramids,2,2025-12-01,20:00,Al Salam Stadium
+107,ENPPI,Pyramids,2,2025-08-19,17:00,Borg El Arab
+108,Alexandria Union,Al Ahly,2,2025-12-23,17:00,Borg El Arab
+109,Smouha,National Bank,1,2025-08-04,20:00,Borg El Arab
+110,Pharco,Talaea El Gaish,2,2025-06-16,20:00,Suez Stadium
+111,Wadi Degla,National Bank,2,2025-10-24,20:00,Zed Club Stadium
+112,Modern Sport,ENPPI,2,2026-01-25,20:00,Petro Sport Stadium
+113,Al Ahly,Alexandria Union,1,2025-12-07,17:00,Al Salam Stadium
+114,Masry,ENPPI,1,2025-05-25,17:00,Al Salam Stadium
+115,El Gouna,Ceramica,2,2025-05-02,20:00,Petro Sport Stadium
+116,National Bank,Zamalek,2,2025-12-30,17:00,Borg El Arab
+117,Pyramids,Zed,1,2025-06-14,20:00,Zed Club Stadium
+118,El Dakhleya,Talaea El Gaish,2,2026-01-08,17:00,Air Defense Stadium
+119,Ismaily,El Dakhleya,1,2025-10-23,20:00,Cairo Stadium
+120,Zamalek,El Dakhleya,1,2025-11-15,17:00,Zed Club Stadium
+121,El Gouna,Ismaily,2,2025-06-02,20:00,Petro Sport Stadium
+122,Alexandria Union,National Bank,2,2026-01-19,17:00,El Sekka El Hadeed Stadium
+123,Pharco,Ceramica,2,2025-06-24,17:00,Cairo Stadium
+124,Pyramids,Pharco,1,2025-12-14,20:00,Suez Stadium
+125,Zed,Wadi Degla,1,2025-08-01,20:00,Zed Club Stadium
+126,National Bank,El Dakhleya,1,2025-07-19,17:00,Air Defense Stadium
+127,National Bank,Al Ahly,2,2025-08-21,17:00,Zed Club Stadium
+128,Zamalek,Ceramica,1,2025-05-19,20:00,Al Salam Stadium
+129,Zed,Pyramids,2,2025-11-03,20:00,Al Salam Stadium
+130,Wadi Degla,Smouha,2,2025-11-01,20:00,Cairo Stadium
+131,Pyramids,ENPPI,1,2025-09-02,17:00,Air Defense Stadium
+132,Smouha,Zamalek,2,2025-09-10,17:00,Borg El Arab
+133,Zed,Ceramica,2,2026-01-22,20:00,Military Academy Stadium
+134,Al Ahly,Pharco,1,2025-10-10,20:00,Zed Club Stadium
+135,Zamalek,National Bank,1,2025-09-16,17:00,Cairo Stadium
+136,Al Ahly,Future,1,2025-07-03,20:00,Cairo Stadium
+137,El Dakhleya,Future,2,2025-07-25,20:00,Military Academy Stadium
+138,Zed,National Bank,2,2025-06-28,17:00,Borg El Arab
+139,Zamalek,Talaea El Gaish,1,2026-01-20,17:00,Suez Stadium
+140,Wadi Degla,Pyramids,2,2025-10-25,20:00,Cairo Stadium
+141,Wadi Degla,Pharco,2,2025-09-16,20:00,Cairo Stadium
+142,Zamalek,Pyramids,1,2025-10-09,20:00,Al Salam Stadium
+143,Pyramids,Talaea El Gaish,1,2025-10-19,20:00,Al Salam Stadium
+144,Ismaily,Talaea El Gaish,1,2026-01-07,20:00,Alexandria Stadium
+145,Smouha,Wadi Degla,1,2026-01-21,20:00,Alexandria Stadium
+146,Ceramica,Alexandria Union,1,2025-08-16,17:00,El Sekka El Hadeed Stadium
+147,Future,Pyramids,2,2025-08-04,20:00,El Sekka El Hadeed Stadium
+148,Future,Masry,2,2026-01-20,17:00,Cairo Stadium
+149,Smouha,El Gouna,1,2025-12-12,17:00,Cairo Stadium
+150,Ismaily,Zed,1,2025-07-01,17:00,Borg El Arab
+151,Alexandria Union,Masry,2,2025-06-24,17:00,Suez Stadium
+152,Modern Sport,El Gouna,2,2025-07-27,17:00,Suez Stadium
+153,Pyramids,Masry,1,2025-11-01,17:00,Air Defense Stadium
+154,El Dakhleya,Smouha,2,2025-05-15,17:00,Air Defense Stadium
+155,Pharco,ENPPI,2,2025-08-10,17:00,Military Academy Stadium
+156,Alexandria Union,Pyramids,2,2025-05-29,20:00,Zed Club Stadium
+157,Pharco,National Bank,2,2025-11-08,20:00,Zed Club Stadium
+158,El Dakhleya,Al Ahly,2,2025-07-12,20:00,Military Academy Stadium
+159,Ceramica,Pyramids,2,2025-05-22,17:00,Military Academy Stadium
+160,Wadi Degla,El Dakhleya,2,2025-10-06,17:00,El Sekka El Hadeed Stadium
+161,Al Ahly,El Gouna,1,2025-12-29,20:00,Military Academy Stadium
+162,Masry,Alexandria Union,1,2025-08-01,20:00,Borg El Arab
+163,ENPPI,Wadi Degla,1,2025-08-10,20:00,Petro Sport Stadium
+164,Pyramids,El Dakhleya,1,2025-06-30,17:00,Cairo Stadium
+165,Modern Sport,Zamalek,2,2025-08-10,17:00,Air Defense Stadium
+166,Ceramica,Masry,2,2025-12-06,20:00,Al Salam Stadium
+167,ENPPI,Alexandria Union,1,2025-12-24,17:00,Borg El Arab
+168,Modern Sport,Future,2,2025-11-14,17:00,Suez Stadium
+169,Masry,Pharco,1,2025-07-30,17:00,Military Academy Stadium
+170,Zed,Al Ahly,2,2025-09-03,17:00,Petro Sport Stadium
+171,National Bank,Modern Sport,1,2025-07-30,20:00,Air Defense Stadium
+172,National Bank,Wadi Degla,1,2025-05-14,20:00,Petro Sport Stadium
+173,Alexandria Union,Modern Sport,1,2025-09-13,17:00,Suez Stadium
+174,Al Ahly,Smouha,1,2025-12-15,17:00,Alexandria Stadium
+175,Future,ENPPI,1,2025-05-16,17:00,Alexandria Stadium
+176,Wadi Degla,Alexandria Union,2,2025-11-15,17:00,Al Salam Stadium
+177,El Gouna,ENPPI,2,2025-07-05,17:00,Cairo Stadium
+178,Modern Sport,Pharco,1,2025-11-11,17:00,Cairo Stadium
+179,Future,El Gouna,1,2025-11-08,17:00,El Sekka El Hadeed Stadium
+180,ENPPI,Ceramica,1,2025-06-21,20:00,Military Academy Stadium
+181,Pyramids,El Gouna,1,2025-07-03,17:00,Cairo Stadium
+182,Ismaily,El Gouna,1,2025-06-17,17:00,Petro Sport Stadium
+183,Modern Sport,Masry,2,2025-10-09,20:00,El Sekka El Hadeed Stadium
+184,El Dakhleya,Smouha,2,2025-10-12,17:00,Suez Stadium
+185,Future,Talaea El Gaish,1,2025-05-28,17:00,Alexandria Stadium
+186,Talaea El Gaish,Future,2,2025-12-31,17:00,Petro Sport Stadium
+187,El Gouna,Talaea El Gaish,2,2025-05-25,20:00,El Sekka El Hadeed Stadium
+188,Future,Wadi Degla,1,2025-12-21,20:00,Cairo Stadium
+189,Al Ahly,Wadi Degla,1,2025-12-31,20:00,Zed Club Stadium
+190,Pyramids,Ceramica,1,2025-12-22,17:00,Borg El Arab
+191,Modern Sport,Alexandria Union,2,2026-01-21,20:00,Suez Stadium
+192,El Dakhleya,Ceramica,2,2025-09-30,17:00,Al Salam Stadium
+193,Pharco,Alexandria Union,2,2025-07-29,17:00,Zed Club Stadium
+194,Wadi Degla,Zed,2,2025-10-18,17:00,Cairo Stadium
+195,Future,Zamalek,2,2026-01-15,20:00,Cairo Stadium
+196,Smouha,Al Ahly,2,2026-01-29,20:00,Military Academy Stadium
+197,Modern Sport,Pharco,1,2025-05-02,20:00,Petro Sport Stadium
+198,Future,Ceramica,1,2025-10-09,17:00,Cairo Stadium
+199,Modern Sport,El Gouna,2,2025-09-30,20:00,Zed Club Stadium
+200,Zed,Alexandria Union,2,2026-01-27,17:00,Zed Club Stadium
+201,El Dakhleya,Al Ahly,2,2025-06-11,20:00,Air Defense Stadium
+202,Ismaily,Modern Sport,1,2025-07-07,17:00,Air Defense Stadium
+203,Smouha,Zed,1,2026-01-30,17:00,Suez Stadium
+204,Masry,Smouha,1,2025-09-18,20:00,Zed Club Stadium
+205,Modern Sport,ENPPI,2,2025-06-15,17:00,Alexandria Stadium
+206,Smouha,Alexandria Union,1,2025-06-02,17:00,El Sekka El Hadeed Stadium
+207,ENPPI,Smouha,2,2026-01-05,17:00,Petro Sport Stadium
+208,Future,Pharco,1,2025-07-08,17:00,Zed Club Stadium
+209,El Gouna,Modern Sport,1,2025-10-08,20:00,Air Defense Stadium
+210,Talaea El Gaish,Ceramica,2,2025-08-02,17:00,Borg El Arab
+211,Zamalek,Talaea El Gaish,1,2025-09-22,17:00,Zed Club Stadium
+212,Zed,Modern Sport,1,2025-08-03,20:00,Al Salam Stadium
+213,National Bank,Wadi Degla,1,2025-11-19,20:00,El Sekka El Hadeed Stadium
+214,Alexandria Union,ENPPI,2,2025-08-03,20:00,Air Defense Stadium
+215,Pharco,National Bank,2,2025-06-28,20:00,Alexandria Stadium
+216,Masry,Modern Sport,1,2025-09-24,20:00,El Sekka El Hadeed Stadium
+217,Masry,Ceramica,1,2025-06-26,17:00,Cairo Stadium
+218,Alexandria Union,Future,2,2025-10-12,20:00,El Sekka El Hadeed Stadium
+219,Pyramids,Future,1,2025-07-31,17:00,Suez Stadium
+220,Ceramica,Al Ahly,2,2025-09-26,17:00,Alexandria Stadium
+221,Future,El Dakhleya,1,2025-10-11,20:00,Al Salam Stadium
+222,Modern Sport,Pyramids,2,2026-01-09,20:00,Air Defense Stadium
+223,Zed,Ismaily,2,2025-08-11,17:00,El Sekka El Hadeed Stadium
+224,National Bank,El Gouna,1,2025-11-23,20:00,Borg El Arab
+225,Future,National Bank,1,2025-11-12,20:00,Military Academy Stadium
+226,Ceramica,El Gouna,1,2026-01-27,20:00,Alexandria Stadium
+227,Pharco,Zamalek,2,2025-06-21,17:00,Alexandria Stadium
+228,Masry,Pharco,1,2025-07-08,17:00,Cairo Stadium
+229,Ceramica,Pyramids,2,2025-09-29,17:00,El Sekka El Hadeed Stadium
+230,Ismaily,Al Ahly,2,2025-11-03,17:00,Zed Club Stadium
+231,Masry,Talaea El Gaish,1,2025-12-06,17:00,Al Salam Stadium
+232,Wadi Degla,Ismaily,2,2025-07-17,17:00,Zed Club Stadium
+233,ENPPI,Ismaily,2,2025-09-22,20:00,Air Defense Stadium
+234,Pharco,Modern Sport,2,2025-07-24,20:00,El Sekka El Hadeed Stadium
+235,National Bank,Modern Sport,1,2025-09-14,20:00,El Sekka El Hadeed Stadium
+236,Ceramica,Zamalek,2,2025-05-17,17:00,Al Salam Stadium
+237,Talaea El Gaish,Pharco,1,2025-06-11,20:00,El Sekka El Hadeed Stadium
+238,ENPPI,National Bank,1,2026-01-04,17:00,Alexandria Stadium
+239,Masry,Future,1,2025-05-26,20:00,Al Salam Stadium
+240,Pyramids,Modern Sport,1,2025-11-18,17:00,Suez Stadium
+241,Smouha,Wadi Degla,1,2025-08-13,17:00,El Sekka El Hadeed Stadium
+242,Ismaily,Ceramica,1,2025-09-03,20:00,Zed Club Stadium
+243,Al Ahly,Zed,1,2025-11-26,17:00,Al Salam Stadium
+244,Wadi Degla,Modern Sport,2,2025-05-28,17:00,Zed Club Stadium
+245,Zed,Pharco,1,2025-09-17,17:00,Military Academy Stadium
+246,Zed,Talaea El Gaish,2,2025-08-06,17:00,Military Academy Stadium
+247,Alexandria Union,Ismaily,2,2025-10-01,20:00,Suez Stadium
+248,El Gouna,Alexandria Union,2,2026-01-05,17:00,El Sekka El Hadeed Stadium
+249,National Bank,Zamalek,2,2025-12-20,17:00,Al Salam Stadium
+250,Pyramids,Masry,1,2025-07-11,20:00,Petro Sport Stadium
+251,Zed,Smouha,2,2025-10-21,20:00,Air Defense Stadium
+252,ENPPI,National Bank,1,2025-11-19,17:00,Cairo Stadium
+253,ENPPI,Pharco,1,2025-12-16,20:00,Borg El Arab
+254,Smouha,Ceramica,1,2025-08-08,20:00,Suez Stadium
+255,Alexandria Union,Talaea El Gaish,2,2025-11-28,17:00,Alexandria Stadium
+256,Future,Modern Sport,1,2025-05-20,17:00,Military Academy Stadium
+257,Talaea El Gaish,Alexandria Union,1,2025-11-06,20:00,Suez Stadium
+258,El Dakhleya,Ceramica,2,2025-08-05,20:00,Zed Club Stadium
+259,Ceramica,Al Ahly,2,2025-07-22,20:00,El Sekka El Hadeed Stadium
+260,Wadi Degla,National Bank,2,2025-11-17,17:00,Zed Club Stadium
+261,El Gouna,Zed,1,2025-12-03,20:00,Borg El Arab
+262,El Gouna,National Bank,2,2025-12-28,17:00,Borg El Arab
+263,Smouha,Zed,1,2025-05-28,20:00,Petro Sport Stadium
+264,Ismaily,Modern Sport,1,2025-05-24,20:00,Suez Stadium
+265,Wadi Degla,ENPPI,2,2026-01-09,20:00,Suez Stadium
+266,El Gouna,El Dakhleya,2,2025-07-23,20:00,Borg El Arab
+267,Modern Sport,Zed,2,2025-11-09,17:00,Al Salam Stadium
+268,Zamalek,Ismaily,1,2025-07-23,17:00,Suez Stadium
+269,Masry,Wadi Degla,1,2025-09-29,17:00,Military Academy Stadium
+270,Talaea El Gaish,Zamalek,2,2025-07-30,20:00,Suez Stadium
+271,Modern Sport,Pharco,1,2025-07-22,17:00,Al Salam Stadium
+272,Al Ahly,ENPPI,1,2025-05-29,20:00,Suez Stadium
+273,Alexandria Union,Future,2,2025-06-25,20:00,Alexandria Stadium
+274,Pharco,El Gouna,2,2025-06-25,17:00,Al Salam Stadium
+275,El Gouna,Al Ahly,2,2025-09-28,17:00,Borg El Arab
+276,ENPPI,Ceramica,1,2025-09-22,17:00,Suez Stadium
+277,Zamalek,Pharco,1,2025-05-03,20:00,Alexandria Stadium
+278,Ceramica,National Bank,1,2025-11-17,20:00,Cairo Stadium
+279,Al Ahly,Modern Sport,1,2025-06-26,20:00,Air Defense Stadium
+280,ENPPI,Future,2,2025-07-04,20:00,Al Salam Stadium
+281,Smouha,Wadi Degla,1,2025-11-16,17:00,Air Defense Stadium
+282,Smouha,Pharco,1,2025-08-14,20:00,Borg El Arab
+283,Zed,Wadi Degla,1,2025-10-27,20:00,Air Defense Stadium
+284,Alexandria Union,Zamalek,2,2025-08-21,20:00,Borg El Arab
+285,Future,Al Ahly,2,2025-07-07,20:00,Zed Club Stadium
+286,Future,Alexandria Union,1,2025-07-11,17:00,Al Salam Stadium
+287,Smouha,Al Ahly,2,2025-08-13,20:00,Military Academy Stadium
+288,El Dakhleya,Talaea El Gaish,2,2025-05-02,17:00,Al Salam Stadium
+289,Ceramica,Talaea El Gaish,1,2025-07-13,17:00,Zed Club Stadium
+290,Wadi Degla,Alexandria Union,2,2025-08-06,17:00,Cairo Stadium
+291,Masry,ENPPI,1,2025-11-09,20:00,Military Academy Stadium
+292,Al Ahly,El Dakhleya,1,2025-05-30,17:00,Borg El Arab
+293,Wadi Degla,Smouha,2,2026-01-06,20:00,Al Salam Stadium
+294,El Dakhleya,Masry,2,2025-09-25,17:00,Air Defense Stadium
+295,Alexandria Union,Ceramica,2,2025-11-12,20:00,Suez Stadium
+296,Ismaily,Smouha,1,2025-05-31,17:00,El Sekka El Hadeed Stadium
+297,Talaea El Gaish,Ceramica,2,2025-11-26,20:00,Air Defense Stadium
+298,Zamalek,Alexandria Union,1,2025-11-09,20:00,Alexandria Stadium
+299,Alexandria Union,Pyramids,2,2025-12-08,20:00,Borg El Arab
+300,National Bank,Al Ahly,2,2025-09-22,20:00,Air Defense Stadium
+301,El Dakhleya,Future,2,2025-05-19,20:00,Al Salam Stadium
+302,National Bank,Talaea El Gaish,1,2025-06-18,17:00,Al Salam Stadium
+303,Modern Sport,Talaea El Gaish,2,2025-08-14,20:00,Cairo Stadium
+304,Wadi Degla,Ismaily,2,2025-05-11,17:00,Military Academy Stadium
+305,Pyramids,Talaea El Gaish,1,2025-06-18,20:00,Suez Stadium
+306,El Gouna,Wadi Degla,1,2025-09-21,20:00,Zed Club Stadium
