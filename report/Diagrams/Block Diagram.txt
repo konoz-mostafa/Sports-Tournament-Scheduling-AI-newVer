@@ -1,0 +1,33 @@
+┌─────────────────────────────────────────────────────────────┐
+│                 SPORTS TOURNAMENT SCHEDULER                  │
+├─────────────────────────────────────────────────────────────┤
+│                         [GUI LAYER]                          │
+├─────────────────────────────────────────────────────────────┤
+│  │ Tkinter GUI          │ Multi-Experiment GUI              │
+│  │ - Parameter Input    │ - Compare Parameters              │
+│  │ - Real-time Progress │ - Plot Results                    │
+│  │ - Schedule Viewer    │ - Summary Tables                  │
+├─────────────────────────────────────────────────────────────┤
+│                    [ALGORITHM LAYER]                         │
+├─────────────────────────────────────────────────────────────┤
+│  │ Genetic Algorithm Engine                                  │
+│  │ ├── Population Initialization                            │
+│  │ ├── Fitness Evaluation                                   │
+│  │ ├── Selection Operators                                  │
+│  │ ├── Crossover Operators                                  │
+│  │ ├── Mutation Operators                                   │
+│  │ └── Termination Criteria                                 │
+├─────────────────────────────────────────────────────────────┤
+│                     [MODEL LAYER]                            │
+├─────────────────────────────────────────────────────────────┤
+│  │ Match Class            │ Constraint Evaluation            │
+│  │ - Team1, Team2         │ - Venue Conflicts               │
+│  │ - Date, Time           │ - Rest Periods                  │
+│  │ - Venue, Leg           │ - Time Balance                  │
+├─────────────────────────────────────────────────────────────┤
+│                    [DATA LAYER]                              │
+├─────────────────────────────────────────────────────────────┤
+│  │ Teams List            │ Venues List      │ Dates Range    │
+│  │ (18 Teams)            │ (10 Venues)      │ (2025-2026)    │
+│  │ Match Times           │ Penalty Weights  │ GA Parameters  │
+└─────────────────────────────────────────────────────────────┘

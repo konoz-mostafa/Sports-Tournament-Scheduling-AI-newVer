@@ -1,0 +1,10 @@
+┌────────────┐   Teams Data   ┌──────────────┐   Schedule   ┌─────────────┐
+│   User     │───────────────▶│     GUI      │─────────────▶│    GA       │
+│   Input    │   Parameters   │  Interface   │   Request    │  Engine     │
+└────────────┘                └──────────────┘              └─────────────┘
+                                   │                              │
+                                   │                              │
+┌────────────┐   Results      ┌──────────────┐   Optimized   ┌─────────────┐
+│   File     │◀───────────────│  Results     │◀──────────────│  Population │
+│  Export    │   Schedule     │  Display     │   Schedule    │   (Best)    │
+└────────────┘                └──────────────┘               └─────────────┘

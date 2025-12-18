@@ -1,0 +1,43 @@
+sports_tournament_scheduler/
+│
+├── 📁 gui/
+│   ├── __init__.py
+│   ├── tkinter_gui.py         # TournamentSchedulerGUI
+│   ├── multi_experiment_gui.py # ipywidgets GUI
+│   └── plot_manager.py        # Visualization
+│
+├── 📁 genetic_algorithm/
+│   ├── __init__.py
+│   ├── population.py          # create_initial_population()
+│   ├── fitness.py            # fitness(), penalty functions
+│   ├── selection.py          # tournament/roulette selection
+│   ├── crossover.py          # one/two/order crossover
+│   ├── mutation.py           # swap/inversion/scramble
+│   └── termination.py        # termination criteria
+│
+├── 📁 models/
+│   ├── __init__.py
+│   ├── match.py              # Match class
+│   ├── tournament.py         # Tournament data
+│   └── constraints.py        # Constraint evaluation
+│
+├── 📁 data/
+│   ├── __init__.py
+│   ├── teams.py              # TEAMS list
+│   ├── venues.py             # VENUES list
+│   ├── dates.py              # generate_dates()
+│   └── config.py             # MATCH_TIMES, weights
+│
+├── 📁 utils/
+│   ├── __init__.py
+│   ├── analysis.py           # analyze_constraints()
+│   ├── visualization.py      # plot_fitness_evolution()
+│   └── file_export.py        # save_results()
+│
+├── 📁 experiments/
+│   ├── __init__.py
+│   ├── experiment_manager.py # run_single_experiment()
+│   └── comparison.py         # plot_comparative_experiments()
+│
+├── main.py                   # Entry point
+└── requirements.txt

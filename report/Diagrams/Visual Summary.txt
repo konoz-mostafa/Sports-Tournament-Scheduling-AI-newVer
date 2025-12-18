@@ -1,0 +1,15 @@
+USER INTERACTION FLOW:
+1. Launch Application → 2. Configure GA Parameters → 3. Run Optimization
+      ↓                         ↓                          ↓
+┌─────────────┐          ┌─────────────┐           ┌─────────────┐
+│   GUI       │          │   GA        │           │   Results   │
+│   Layer     │◄────────▶│   Layer     │◄─────────▶│   Layer     │
+│   (Front)   │  Params  │   (Core)    │  Fitness  │   (Output)  │
+└─────────────┘          └─────────────┘           └─────────────┘
+                              │
+                         ┌────┴────┐
+                         │   Data  │
+                         │  Layer  │
+                         │ (Teams, │
+                         │ Venues) │
+                         └─────────┘

@@ -1,0 +1,33 @@
+Start GA Execution
+    │
+    ▼
+Initialize Population
+    │
+    ▼
+Calculate Fitness for Each Individual
+    │
+    ▼
+├─▶ Check Termination Criteria
+│       ├── Max Generations Reached? → END
+│       ├── Fitness Converged? → END
+│       └── No Improvement? → END
+│
+    ▼
+Select Parents (Tournament/Roulette)
+    │
+    ▼
+Apply Crossover (One/Two/Order Point)
+    │
+    ▼
+Apply Mutation (Swap/Inversion/Scramble)
+    │
+    ▼
+Create New Generation
+    │
+    ▼
+Preserve Elite Individuals
+    │
+    ▼
+Update GUI Progress
+    │
+└─── Repeat Until Termination

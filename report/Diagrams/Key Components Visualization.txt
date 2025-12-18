@@ -1,0 +1,7 @@
+┌────────────────┬─────────────────┬────────────────────┬────────────────┐
+│   Selection    │   Crossover     │     Mutation       │  Termination   │
+├────────────────┼─────────────────┼────────────────────┼────────────────┤
+│ • Tournament   │ • One-Point     │ • Swap             │ • Max Gener.   │
+│ • Roulette     │ • Two-Point     │ • Inversion        │ • Convergence  │
+│                │ • Order         │ • Scramble         │ • No Improve.  │
+└────────────────┴─────────────────┴────────────────────┴────────────────┘

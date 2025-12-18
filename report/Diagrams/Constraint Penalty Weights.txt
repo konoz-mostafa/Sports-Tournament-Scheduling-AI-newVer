@@ -1,0 +1,7 @@
+┌──────────────────────┬────────────┬─────────────────────────────┐
+│   Constraint Type    │   Weight   │        Description         │
+├──────────────────────┼────────────┼─────────────────────────────┤
+│ Venue Conflicts      │     5      │ Same venue+date+time        │
+│ Rest Violations      │     3      │ Less than 1 day rest        │
+│ Time Imbalance       │     1      │ Uneven 17:00 vs 20:00 games │
+└──────────────────────┴────────────┴─────────────────────────────┘
